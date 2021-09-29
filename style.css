@@ -1,0 +1,69 @@
+* {
+  box-sizing: border-box;
+  list-style-type: none;
+}
+body {
+  margin: 0px;
+}
+.main1 {
+  overflow: auto;
+}
+.main1 a {
+  float: right;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  padding: 8px;
+  color: white;
+}
+.main2 {
+  overflow: auto;
+}
+.main2 a {
+  float: right;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  height: 10vh;
+  padding: 14px 20px;
+  position: relative;
+}
+.main3 {
+  overflow: auto;
+}
+.main3 {
+  display: block;
+  height: 70vh;
+  position: relative;
+  font-size: 20px;
+  padding: 90px 0px;
+}
+.main3 button {
+  margin-right: 20px;
+  width: 10%;
+  height: 10%;
+  text-align: center;
+}
+.main4 {
+  overflow: auto;
+}
+.main4 img {
+  display: block;
+  width: 10vw;
+  border-width: 50%;
+  position: relative;
+}
+.main6 img {
+  position: relative;
+  bottom: 10px;
+  left: 250px;
+  display: inline-block;
+  padding: 20px;
+}
+.main4 p {
+  text-align: center;
+  font-size: 40px;
+  border-bottom: 2px;
+  margin-bottom: 2px;
+  margin-top: 4px;
+}
